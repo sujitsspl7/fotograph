@@ -1,0 +1,46 @@
+.main-text-color {
+    color: #2888d0 !important;
+}
+
+.main-bg-color {
+    background-color: #2888d0 !important;
+}
+
+.header-color {
+    background: #fff !important;
+}
+
+.footer-color {
+    background: #01223a;
+}
+
+.heading-color {
+    color: #000 !important;
+}
+
+.heading-color-white {
+    color: #fff !important;
+}
+
+.bg-black {
+    background: #000 !important;
+}
+
+.button-all {
+    background: #2888d0;
+    padding: 15px 27px;
+    border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+}
+
+.button-all:hover {
+    background: #0b5e9c;
+    color: #fff;
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease;
+}
